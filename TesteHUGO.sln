@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteHUGO", "TesteHUGO\TesteHUGO.csproj", "{91989FC5-C136-4FE8-A58C-439D45E695EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuscaPorIndex", "BuscaPorIndex\BuscaPorIndex.csproj", "{2A47895A-C2DD-4053-89FE-0339BD1EDB47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxVec", "MaxVec\MaxVec.csproj", "{6A10974F-4FFB-43A6-BD74-0511BA743B74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +19,19 @@ Global
 		{91989FC5-C136-4FE8-A58C-439D45E695EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91989FC5-C136-4FE8-A58C-439D45E695EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91989FC5-C136-4FE8-A58C-439D45E695EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A47895A-C2DD-4053-89FE-0339BD1EDB47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A47895A-C2DD-4053-89FE-0339BD1EDB47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A47895A-C2DD-4053-89FE-0339BD1EDB47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A47895A-C2DD-4053-89FE-0339BD1EDB47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A10974F-4FFB-43A6-BD74-0511BA743B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A10974F-4FFB-43A6-BD74-0511BA743B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A10974F-4FFB-43A6-BD74-0511BA743B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A10974F-4FFB-43A6-BD74-0511BA743B74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFA8E8FB-3D2A-4E23-875D-11D1BE62701A}
 	EndGlobalSection
 EndGlobal

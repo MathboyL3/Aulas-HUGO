@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MaxVec": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
